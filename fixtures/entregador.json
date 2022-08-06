@@ -1,0 +1,53 @@
+{
+  "signup": {
+    "nome": "Jéssica Espíndola",
+    "cpf": "08528879909",
+    "email": "jessica@gmail.com",
+    "whatsapp": "9999999999",
+
+    "endereco": {
+      "cep": "88818688",
+      "rua": "Rua Rosa Bonfante",
+      "numero": "185",
+      "complemento": "casa",
+      "bairro": "Laranjinha",
+      "cidade_uf": "Criciúma/SC"
+    },
+    "metodo_entrega": "Moto",
+    "cnh": "cnh-digital.jpg"
+  },
+  "cpf_invalido": {
+    "nome": "Jéssica Silva",
+    "cpf": "08528AA990O",
+    "email": "silva@gmail.com",
+    "whatsapp": "996558327",
+
+    "endereco": {
+      "cep": "88818688",
+      "rua": "Rua Rosa Bonfante",
+      "numero": "185",
+      "complemento": "casa",
+      "bairro": "Laranjinha",
+      "cidade_uf": "Criciúma/SC"
+    },
+    "metodo_entrega": "Moto",
+    "cnh": "cnh-digital.jpg"
+  },
+  "email_invalido": {
+    "nome": "Jéscaaa 123 ",
+    "cpf": "08528879909",
+    "email": "teste.gmail.com",
+    "whatsapp": "9999999999",
+
+    "endereco": {
+      "cep": "88818688",
+      "rua": "Rua Rosa Bonfante",
+      "numero": "185",
+      "complemento": "casa",
+      "bairro": "Laranjinha",
+      "cidade_uf": "Criciúma/SC"
+    },
+    "metodo_entrega": "Moto",
+    "cnh": "cnh-digital.jpg"
+  }
+}
